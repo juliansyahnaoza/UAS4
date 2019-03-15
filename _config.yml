@@ -11,7 +11,7 @@ author_gravatar:    f5ebd4c466b1f9cc71cd04c26aacad0e # Gravatar md5 hash
 twitter_username:   naoza 
 
 # Site Settings
-baseurl:            "https://naozajuliansyah.github.io" # Base URL must end WITHOUT a slash, default: ""
+baseurl:            "https://naozajuliansyah.github.io/pos.github.io" # Base URL must end WITHOUT a slash, default: ""
 permalink:          /blog/:title # Post permalink
 timezone:           Asia/Jakarta # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
