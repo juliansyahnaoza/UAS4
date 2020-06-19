@@ -1,4 +1,4 @@
-# PUTUYOGA.COM
+
 
 ## Use Jekyll and some theme around.
 
