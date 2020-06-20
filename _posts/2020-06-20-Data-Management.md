@@ -43,14 +43,14 @@ Topik ini sebagai tiga cara untuk mengelola data:
    }
    `
 
-   ![memory1c.png](/assets/images/memory1c.png)
+   ![memory1c.png]({{site.baseurl}}/assets/images/memory1c.png)
 
    Ketika kita akan menjalankan file memory1.c harus terlebih dalu di compile, dengan perintah `gcc memory1.c -o memory1.c`:
 
    `$ ./memory1` cara menjalankannya
    `Hello World`
 
-   # ![hasil-memory1.png](/assets/images/hasil-memory1.png)
+   # ![hasil-memory1.png]({{site.baseurl}}/assets/images/hasil-memory1.png)
 
 ##### **Mengunci File (File Lock)**
 
