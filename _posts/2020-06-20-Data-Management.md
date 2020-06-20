@@ -18,7 +18,7 @@ Topik ini sebagai tiga cara untuk mengelola data:
 
    buatlah file baru dengan nama `memory1.c` dengan mengetikan `vim memory1.c`diterminal linux anda, 
 
-   ![1592149772034](/assets/images/vim-memory1c.png)
+   ![1592149772034]({{site.baseurl}}/assets/images/vim-memory1c.png)
 
    kemudian ketikan source code dibawah ini: 
 
