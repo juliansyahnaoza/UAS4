@@ -21,7 +21,7 @@ Topik ini sebagai tiga cara untuk mengelola data:
    ![vim-memory1c.png]({{site.baseurl}}/assets/images/vim-memory1c.png)
 
    kemudian ketikan source code dibawah ini: 
-
+https://www.youtube.com/watch?v=rgDDWhQe-ow
    **codelabs**
 
    `#include <unistd.h>
