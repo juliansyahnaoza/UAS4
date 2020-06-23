@@ -1,4 +1,4 @@
-#Jawaban nomor 2, UAS
+# Jawaban nomor 2, UAS
 
 Video Ini merupakan jawaban UAS semester 4 nomor 2 untuk matakuliah Programman Linux dan Unix, Prodi Teknik Informatika UNU KALTIM.
 
